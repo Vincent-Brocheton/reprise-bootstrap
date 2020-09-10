@@ -1,0 +1,11 @@
+nav a {
+    color: darkblue !important;
+}
+
+nav {
+    background-color: beige !important;
+}
+
+.tex {
+    font-family: 'Courier New';
+}
