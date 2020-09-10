@@ -9,3 +9,7 @@ nav {
 .tex {
     font-family: 'Courier New';
 }
+
+.nav-item:hover {
+    background-color: aqua;
+}
